@@ -1,0 +1,10 @@
+Realizar una simulación en proteus donde se controle un motor DC, se debe ver que se disminuye o aumenta la velocidad y el sentido de giro del motor.
+
+Entregable
+
+Un archivo pdf que contenga toda la información de los integrantes del grupo además incluir el enlace del video de youtube
+Subir el video visible a youtube 
+Formato
+
+T2_G#.pdf     ejemplo  T2_G3.pdf
+
